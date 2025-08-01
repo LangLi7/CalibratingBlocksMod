@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "calibrating_blocks:block/magic_block"
+    }
+  }
+}

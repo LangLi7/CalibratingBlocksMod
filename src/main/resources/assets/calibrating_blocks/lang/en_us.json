@@ -1,0 +1,9 @@
+{
+  "block.calibrating_blocks.magic_block": "Magic Block",
+
+  "block.calibrating_blocks.calibrated_beacon": "Calibrated Beacon",
+  "item.calibrating_blocks.calibrated_beacon": "Calibrated Beacon",
+  "block.calibrating_blocks.calibrated_beacon_block": "Calibrated Beacon",
+  "item.calibrating_blocks.calibrated_beacon_block": "Calibrated Beacon",
+  "itemgroup.calibrating_blocks": "Calibrating Blocks"
+}

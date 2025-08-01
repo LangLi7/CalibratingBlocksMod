@@ -1,0 +1,8 @@
+{
+  "block.calibrating_blocks.magic_block": "Zauberwürfel",
+  "block.calibrating_blocks.calibrated_beacon": "Kalibriertes Leuchtfeuer",
+  "item.calibrating_blocks.calibrated_beacon": "Kalibriertes Leuchtfeuer",
+  "block.calibrating_blocks.calibrated_beacon_block": "Kalibriertes Leuchtfeuer",
+  "item.calibrating_blocks.calibrated_beacon_block": "Kalibriertes Leuchtfeuer",
+  "itemgroup.calibrating_blocks": "Kalibriertes Blöcke"
+}
